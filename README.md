@@ -1,7 +1,7 @@
 <h2> Hi, I'm Mehmet!</h2>
 
 <img align='right' src="https://media.giphy.com/media/HscDLzkO8EOTmgkhQP/giphy.gif" width="250">
-<p><em>Software Enginnering at <a href="https://www.mehmetakif.edu.tr/">University of Mehmet Akif Ersoy</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>
+<p><em>Software Enginnering at <a href="https://www.mehmetakif.edu.tr/">University of Mehmet Akif Ersoy</a></br>
  
  > <h5>I am currently learning and improving myself in the Mobile and Web technologies.</h5>
 
