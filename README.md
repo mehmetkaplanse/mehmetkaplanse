@@ -3,7 +3,7 @@
 <img align='right' src="https://media.giphy.com/media/HscDLzkO8EOTmgkhQP/giphy.gif" width="240">
 <p><em>Software Enginnering at <a href="https://www.mehmetakif.edu.tr/">University of Mehmet Akif Ersoy</a></br>
  
- > <h5>I am currently learning and improving myself in the Mobile and Web technologies.</h5>
+ > <h5>I am currently learning and improving myself in the Web and Mobile technologies.</h5>
 
 [![Twitter: mehmetkaplanse](https://img.shields.io/twitter/follow/mehmetkaplanse?style=social)](https://twitter.com/mehmetkaplanse)
 [![Linkedin: Mehmet Kaplan](https://img.shields.io/badge/-mehmetkaplan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mehmet-kaplan-50583b23a/)](https://www.linkedin.com/in/mehmet-kaplan-50583b23a/)
