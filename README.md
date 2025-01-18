@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Mehmet! 👋</h1>
 
 <div align="center">
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZG16cjA4cHhscWp3bzdyeGFiNzlkem5sY3lrbTMxemJicXZhbWpkdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ZVik7pBtu9dNS/giphy.gif" width="50%" alt="Animated GIF">
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmdpYTVnc3FsZXBmNndpeDdxMTI5dXZya3JtaXNpMzRvbWU3OTQ4eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ufEAqdSsFBvkHzl7pT/giphy.gif" width="50%" alt="Animated GIF">
 </div>
 <br />
 <p><em>Software Engineering Student at <a href="https://www.mehmetakif.edu.tr/" target="_blank">University of Mehmet Akif Ersoy</a></em></p>
@@ -9,6 +9,7 @@
 ---
 
 ### 🌟 About Me
+- 🧑‍💻 I'm a **Software Engineer**.
 - 🔧 Currently learning and improving myself in **Web and Mobile Technologies**.
 - 🚀 Passionate about **technology**, **problem-solving**, and creating impactful solutions.
 - 🌐 Open to collaborations and contributions in exciting projects.
